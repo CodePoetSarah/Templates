@@ -1,2 +1,4 @@
-# templates
-Collection of templates for E-Ink devices and planners
+# Colection of Templates
+
+I love my planners and E-Ink devices, here's a collection of templates.
+
